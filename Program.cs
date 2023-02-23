@@ -23,7 +23,16 @@ namespace SimpleClasses
                 myCar.Year, 
                 myCar.Color);
 
+            decimal value = DetermineMarketValue(myCar);
+            Console.WriteLine("{0:C}", value);
+
             Console.ReadLine();
+        }
+
+        private static decimal DetermineMarketValue(Car car)
+        {
+            decimal carValue = 22000.0M;
+            return carValue;
         }
     }
     class Car
