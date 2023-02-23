@@ -1,0 +1,15 @@
+/Users/noelanirose/Documents/C#-TestApp/bin/Debug/net7.0/C#-TestApp
+/Users/noelanirose/Documents/C#-TestApp/bin/Debug/net7.0/C#-TestApp.deps.json
+/Users/noelanirose/Documents/C#-TestApp/bin/Debug/net7.0/C#-TestApp.runtimeconfig.json
+/Users/noelanirose/Documents/C#-TestApp/bin/Debug/net7.0/C#-TestApp.dll
+/Users/noelanirose/Documents/C#-TestApp/bin/Debug/net7.0/C#-TestApp.pdb
+/Users/noelanirose/Documents/C#-TestApp/obj/Debug/net7.0/C#-TestApp.csproj.AssemblyReference.cache
+/Users/noelanirose/Documents/C#-TestApp/obj/Debug/net7.0/C#-TestApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/noelanirose/Documents/C#-TestApp/obj/Debug/net7.0/C#-TestApp.AssemblyInfoInputs.cache
+/Users/noelanirose/Documents/C#-TestApp/obj/Debug/net7.0/C#-TestApp.AssemblyInfo.cs
+/Users/noelanirose/Documents/C#-TestApp/obj/Debug/net7.0/C#-TestApp.csproj.CoreCompileInputs.cache
+/Users/noelanirose/Documents/C#-TestApp/obj/Debug/net7.0/C#-TestApp.dll
+/Users/noelanirose/Documents/C#-TestApp/obj/Debug/net7.0/refint/C#-TestApp.dll
+/Users/noelanirose/Documents/C#-TestApp/obj/Debug/net7.0/C#-TestApp.pdb
+/Users/noelanirose/Documents/C#-TestApp/obj/Debug/net7.0/C#-TestApp.genruntimeconfig.cache
+/Users/noelanirose/Documents/C#-TestApp/obj/Debug/net7.0/ref/C#-TestApp.dll
